@@ -1,0 +1,4 @@
+kullacı adı: deneme1|| hamle sayısı:11|| puan:25
+kullacı adı: harun|| hamle sayısı:15|| puan:20
+kullacı adı: melih|| hamle sayısı:13|| puan:25
+kullacı adı: deneme2|| hamle sayısı:12|| puan:20
