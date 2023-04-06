@@ -16,27 +16,27 @@ ARAYÜZÜ ÖRNEK GÖRSELI
 
 ![rapor1](https://user-images.githubusercontent.com/72405540/230413027-dada2524-2a7e-4101-9094-d189036d0728.png)
 
-Şekil 1. Kullancı arayüzü Register 
+                                                                         Şekil 1. Kullancı arayüzü Register 
 
 ## Login 
 
 ![rapor2](https://user-images.githubusercontent.com/72405540/230413195-edd42fc8-b1ec-4d31-bb8b-0b20d890453e.png)
 
-Şekil 2. Kullancı arayüzü Login 
+                                                                         Şekil 2. Kullancı arayüzü Login 
 
 ## Oyun Baslangici
 
 ![rapor3](https://user-images.githubusercontent.com/72405540/230413302-f17b475d-fae7-4a3e-b229-7b0674bd58ed.png)
 
-Şekil 3. Puzzle oyunda açılan ilk pencere, tabloda kullancıların ad ve puan göstermektedir
+                                                  Şekil 3. Puzzle oyunda açılan ilk pencere, tabloda kullancıların ad ve puan göstermektedir
 
 
 ## Oyun Oynamak
 
 ![rapor4](https://user-images.githubusercontent.com/72405540/230413969-87a69149-78ce-4cc4-926d-b6069fb2f628.png)
 
-Şekil 4. Kulalnıcı istediği resimi puzzle oyuna yüklendi
+                                                                Şekil 4. Kulalnıcı istediği resimi puzzle oyuna yüklendi
 
 ![rapor5](https://user-images.githubusercontent.com/72405540/230414107-f25579b4-95a0-44f7-9d3f-6de566a198fc.png)
 
-Şekil 5. Puzzle Oyunu artık “Başla/Devam Et” buttonu tıklayarak başlatabilir ve burada puzzle parçaları karıştır buttonu tıklayarak karıştırabilir
+                            Şekil 5. Puzzle Oyunu artık “Başla/Devam Et” buttonu tıklayarak başlatabilir ve burada puzzle parçaları karıştır buttonu tıklayarak karıştırabilir
