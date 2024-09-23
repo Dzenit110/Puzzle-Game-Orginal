@@ -1,6 +1,6 @@
 # C# FORM PUZZLE GAME
 
-• The goal of this project is to design a puzzle game. Our puzzle game starts by dividing the uploaded image into 16 equal pieces. While the pieces are being shuffled, if a piece is placed in the correct position, the shuffle button becomes inactive. When solving the puzzle, once a piece is placed in the correct position, the piece is locked and cannot be moved.
+The goal of this project is to design a puzzle game. Our puzzle game starts by dividing the uploaded image into 16 equal pieces. While the pieces are being shuffled, if a piece is placed in the correct position, the shuffle button becomes inactive. When solving the puzzle, once a piece is placed in the correct position, the piece is locked and cannot be moved.
 
 # DEVELOPMENT ENVIRONMENT
 Initially, we decided to develop this game using C# and opted for Visual Programming. As we know, Windows Forms is an ideal platform for this purpose, supporting a variety of application development features like controls, graphics, data binding, and user input. Using Visual Studio 2022, we leveraged the provided visual designer to create a desktop game. Typically, drag-and-drop functionalities make it easier to create desktop applications with visual controls.
