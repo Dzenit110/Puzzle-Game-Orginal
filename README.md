@@ -40,7 +40,7 @@ Figure 4. User uploads their desired image to the puzzle game
 Figure 5. The puzzle game can now be started by clicking the "Start/Continue" button, and the pieces can be shuffled by clicking the "Shuffle" button.<br><br>
 
 
-🧰 Languages & Tools
+## 🧰 Languages & Tools
 <br><br>
 <img src="https://github.com/user-attachments/assets/f83ea8e5-0e62-48ea-b871-4b7ec1effd0f" alt="Puzzle Image" width="60" height="60" alt="C# (CSharp Form)"> &nbsp; &nbsp; 
 <img src="https://github.com/user-attachments/assets/f05570ca-e4ac-4a2d-9c5d-f90ebd674ee8" width="60" height="50" alt="Download"> &nbsp; &nbsp; 
